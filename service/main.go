@@ -134,10 +134,10 @@ const (
 	TYPE = "post"
 	DISTANCE = "200km"
 	// Needs to update
-	PROJECT_ID = "around-176217"
+	PROJECT_ID = "around-176822"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://52.25.208.83:9200"
+	ES_URL = "http://52.38.138.187:9200"
 )
 
 
